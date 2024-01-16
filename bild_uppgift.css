@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+img {
+    border: 10px solid rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin: 1%;
+}
